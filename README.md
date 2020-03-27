@@ -11,12 +11,25 @@
 
 ### 1，引入库
 
+添加JitPack仓库到项目中
+
+项目根 build.gradle
+
+```groovy
+allprojects {
+  repositories {
+    ...
+    maven { url 'https://jitpack.io' }
+  }
+}
 ```
 
-```
+添加依赖，app模块中
 
-```
-
+```groovy
+dependencies {
+	implementation 'com.github.shengMR:FastBleScan:v1.0.0'
+}
 ```
 
 
