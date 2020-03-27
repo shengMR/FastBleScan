@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FaseBleScan</string>
+    <string name="ac_main_start_scan">开始扫描</string>
+    <string name="ac_main_stop_scan">停止扫描</string>
+    <string name="ac_main_scan_error">扫描出错</string>
+    <string name="ac_main_menu_setting">设置</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <!-- Messages Preferences -->
+    <string name="scan_name_title">名称过滤</string>
+    <string name="scan_name_enable">是否开启名称过滤</string>
+    <string name="scan_name">需要过滤的名称</string>
+</resources>
